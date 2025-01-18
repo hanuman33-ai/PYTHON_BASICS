@@ -1,2 +1,2 @@
 # PYTHON_BASICS
-#1-print(), datatypes, type casting
+#1-print(), Identifiers, datatypes, type casting
